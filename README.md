@@ -18,7 +18,7 @@ A simple Course Management System implemented using Java Swing and MYSQL databas
 <img width="1477" alt="SignUpPage" src="https://user-images.githubusercontent.com/92678280/213867401-c69870a9-77e0-4cc6-a6c8-6a972686b92a.png">
 
 ## Contributor
-1) Tejash Kumar
+1) Kumar Tejash
 2) Aryan Bisht
 3) Rahul Negi
 
