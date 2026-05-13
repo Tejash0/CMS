@@ -23,6 +23,7 @@ A simple Course Management System implemented using Java Swing and MYSQL databas
 3) Rahul Negi
 
 ## Contributing
+
 If you're interested in contributing to this project and making it better with new ideas, your pull request will be greatly appreciated. 
 
 If you come across any problems, please let us know by posting in the issues section of the repository. 
